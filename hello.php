@@ -15,38 +15,38 @@ Text domain: hello-dolly-translate
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-$lyrics = array(
-	__("Hello, Dolly","hello-dolly-translate"),
-	__("Well, hello, Dolly","hello-dolly-translate"),
-	__("It's so nice to have you back where you belong","hello-dolly-translate"),
-	__("You're lookin' swell, Dolly","hello-dolly-translate"),
-	__("I can tell, Dolly","hello-dolly-translate"),
-	__("You're still glowin', you're still crowin","hello-dolly-translate"),
-	__("You're still goin' strong","hello-dolly-translate"),
-	__("We feel the room swayin","hello-dolly-translate"),
-	__("While the band's playin","hello-dolly-translate"),
-	__("One of your old favourite songs from way back when","hello-dolly-translate"),
-	__("So, take her wrap, fellas","hello-dolly-translate"),
-	__("Find her an empty lap, fellas","hello-dolly-translate"),
-	__("Dolly'll never go away again","hello-dolly-translate"),
-	__("Hello, Dolly","hello-dolly-translate"),
-	__("Well, hello, Dolly","hello-dolly-translate"),
-	__("It's so nice to have you back where you belong","hello-dolly-translate"),
-	__("You're lookin' swell, Dolly","hello-dolly-translate"),
-	__("I can tell, Dolly","hello-dolly-translate"),
-	__("You're still glowin', you're still crowin'","hello-dolly-translate"),
-	__("You're still goin' strong","hello-dolly-translate"),
-	__("We feel the room swayin'","hello-dolly-translate"),
-	__("While the band's playin'","hello-dolly-translate"),
-	__("One of your old favourite songs from way back when","hello-dolly-translate"),
-	__("Golly, gee, fellas","hello-dolly-translate"),
-	__("Find her a vacant knee, fellas","hello-dolly-translate"),
-	__("Dolly'll never go away","hello-dolly-translate"),
-	__("Dolly'll never go away","hello-dolly-translate"),
-	__("Dolly'll never go away again","hello-dolly-translate"),
-);
+	$lyrics = array(
+		__( "Hello, Dolly" , "hello-dolly-translate" ),
+		__( "Well, hello, Dolly" , "hello-dolly-translate" ),
+		__( "It's so nice to have you back where you belong" , "hello-dolly-translate" ),
+		__( "You're lookin' swell, Dolly" , "hello-dolly-translate" ),
+		__( "I can tell, Dolly" , "hello-dolly-translate" ),
+		__( "You're still glowin', you're still crowin" , "hello-dolly-translate" ),
+		__( "You're still goin' strong" , "hello-dolly-translate" ),
+		__( "We feel the room swayin" , "hello-dolly-translate" ),
+		__( "While the band's playin" , "hello-dolly-translate" ),
+		__( "One of your old favourite songs from way back when" , "hello-dolly-translate" ),
+		__( "So, take her wrap, fellas" , "hello-dolly-translate" ),
+		__( "Find her an empty lap, fellas" , "hello-dolly-translate" ),
+		__( "Dolly'll never go away again" , "hello-dolly-translate" ),
+		__( "Hello, Dolly" , "hello-dolly-translate" ),
+		__( "Well, hello, Dolly" , "hello-dolly-translate" ),
+		__( "It's so nice to have you back where you belong" , "hello-dolly-translate" ),
+		__( "You're lookin' swell, Dolly" , "hello-dolly-translate" ),
+		__( "I can tell, Dolly" , "hello-dolly-translate" ),
+		__( "You're still glowin', you're still crowin'" , "hello-dolly-translate" ),
+		__( "You're still goin' strong" , "hello-dolly-translate" ),
+		__( "We feel the room swayin'" , "hello-dolly-translate" ),
+		__( "While the band's playin'" , "hello-dolly-translate" ),
+		__( "One of your old favourite songs from way back when" , "hello-dolly-translate" ),
+		__( "Golly, gee, fellas" , "hello-dolly-translate" ),
+		__( "Find her a vacant knee, fellas" , "hello-dolly-translate" ),
+		__( "Dolly'll never go away" , "hello-dolly-translate" ),
+		__( "Dolly'll never go away" , "hello-dolly-translate" ),
+		__( "Dolly'll never go away again" , "hello-dolly-translate" ),
+	);
 
-	// Here we split it into lines
+	// Here we randomise all the lines
 	shuffle($lyrics);
 
 	return $lyrics[0];
