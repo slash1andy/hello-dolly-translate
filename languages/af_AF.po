@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2016-09-19 11:22-0700\n"
-"PO-Revision-Date: 2016-09-19 12:15-0700\n"
+"PO-Revision-Date: 2016-09-19 12:19-0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: hello.php:25 hello.php:38
 msgid "You're still goin' strong"
-msgstr ""
+msgstr "Jy is nog steeds baie sterk."
 
 #: hello.php:26
 msgid "We feel the room swayin"
@@ -49,7 +49,7 @@ msgstr ""
 
 #: hello.php:27
 msgid "While the band's playin"
-msgstr ""
+msgstr "Terwyl die orkes speel"
 
 #: hello.php:28 hello.php:41
 msgid "One of your old favourite songs from way back when"
