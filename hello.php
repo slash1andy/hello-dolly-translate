@@ -77,9 +77,20 @@ function dolly_css() {
 		font-size: 11px;
 	}
 	</style>
-	";
+	"; 
 }
 
 add_action( 'admin_head', 'dolly_css' );
 
-?>
+// REST API support
+function hello_dolly_api() {
+    register_rest_route( 
+        'hello-dolly/v1', '/lyric', 
+            array(
+            'methods' => 'GET',
+            'callback' => 'hello_dolly_get_lyric',
+            ) 
+    );
+}
+add_action( 'rest_api_init', 'hello_dolly_api' );
+
