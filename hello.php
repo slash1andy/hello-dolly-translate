@@ -1,12 +1,12 @@
 <?php
 /**
  * @package Hello_Dolly
- * @version 1.6
+ * @version 2.0
  */
 /*
 Plugin Name: Hello Dolly
 Plugin URI: https://wordpress.org/plugins/hello-dolly/
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page. This is included with initial downloads of WordPress as an example of how the core can be extended.
+Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
 Author: Matt Mullenweg
 Version: 2.0
 Author URI: http://ma.tt/
@@ -15,34 +15,34 @@ Author URI: http://ma.tt/
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
 $lyrics = array(
-	__("Hello, Dolly","hello-dolly"),
-	__("Well, hello, Dolly","hello-dolly"),
-	__("It's so nice to have you back where you belong","hello-dolly"),
-	__("You're lookin' swell, Dolly","hello-dolly"),
-	__("I can tell, Dolly","hello-dolly"),
-	__("You're still glowin', you're still crowin","hello-dolly"),
-	__("You're still goin' strong","hello-dolly"),
-	__("We feel the room swayin","hello-dolly"),
-	__("While the band's playin","hello-dolly"),
-	__("One of your old favourite songs from way back when","hello-dolly"),
-	__("So, take her wrap, fellas","hello-dolly"),
-	__("Find her an empty lap, fellas","hello-dolly"),
-	__("Dolly'll never go away again","hello-dolly"),
-	__("Hello, Dolly","hello-dolly"),
-	__("Well, hello, Dolly","hello-dolly"),
-	__("It's so nice to have you back where you belong","hello-dolly"),
-	__("You're lookin' swell, Dolly","hello-dolly"),
-	__("I can tell, Dolly","hello-dolly"),
-	__("You're still glowin', you're still crowin'","hello-dolly"),
-	__("You're still goin' strong","hello-dolly"),
-	__("We feel the room swayin'","hello-dolly"),
-	__("While the band's playin'","hello-dolly"),
-	__("One of your old favourite songs from way back when","hello-dolly"),
-	__("Golly, gee, fellas","hello-dolly"),
-	__("Find her a vacant knee, fellas","hello-dolly"),
-	__("Dolly'll never go away","hello-dolly"),
-	__("Dolly'll never go away","hello-dolly"),
-	__("Dolly'll never go away again","hello-dolly"),
+	"Hello, Dolly",
+	"Well, hello, Dolly",
+	"It's so nice to have you back where you belong",
+	"You're lookin' swell, Dolly",
+	"I can tell, Dolly",
+	"You're still glowin', you're still crowin",
+	"You're still goin' strong",
+	"We feel the room swayin",
+	"While the band's playin",
+	"One of your old favourite songs from way back when",
+	"So, take her wrap, fellas",
+	"Find her an empty lap, fellas",
+	"Dolly'll never go away again",
+	"Hello, Dolly",
+	"Well, hello, Dolly",
+	"It's so nice to have you back where you belong",
+	"You're lookin' swell, Dolly",
+	"I can tell, Dolly",
+	"You're still glowin', you're still crowin'",
+	"You're still goin' strong",
+	"We feel the room swayin'",
+	"While the band's playin'",
+	"One of your old favourite songs from way back when",
+	"Golly, gee, fellas",
+	"Find her a vacant knee, fellas",
+	"Dolly'll never go away",
+	"Dolly'll never go away",
+	"Dolly'll never go away again",
 );
 
 	// Here we split it into lines
@@ -71,7 +71,7 @@ function dolly_css() {
 	#dolly {
 		float: $x;
 		padding-$x: 15px;
-		padding-top: 5px;
+		padding-top: 5px;		
 		margin: 0;
 		font-size: 11px;
 	}
