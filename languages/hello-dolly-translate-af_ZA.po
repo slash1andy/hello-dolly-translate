@@ -17,35 +17,35 @@ msgstr ""
 
 #: hello.php:19 hello.php:32
 msgid "Hello, Dolly"
-msgstr "Hallo, Dolly"
+msgstr "Hallo, Grietjie"
 
 #: hello.php:20 hello.php:33
 msgid "Well, hello, Dolly"
-msgstr "Hallo, Dolly"
+msgstr "Hallo, Grietjie"
 
 #: hello.php:21 hello.php:34
 msgid "It's so nice to have you back where you belong"
-msgstr ""
+msgstr "Dis lekker om jou weer te sien"
 
 #: hello.php:22 hello.php:35
 msgid "You're lookin' swell, Dolly"
-msgstr "Jy lyk uitstekend, Dolly"
+msgstr "Jy lyk uitstekend, Grietjie"
 
 #: hello.php:23 hello.php:36
 msgid "I can tell, Dolly"
-msgstr "Ek kan sien, Dolly"
+msgstr "Ek sien jou raak, Grietjie"
 
 #: hello.php:24
 msgid "You're still glowin', you're still crowin"
-msgstr ""
+msgstr "Jy lyk gloeiend, jy lyk stralend"
 
 #: hello.php:25 hello.php:38
 msgid "You're still goin' strong"
-msgstr "Jy is nog steeds baie sterk."
+msgstr "Jy staan steeds sterk"
 
 #: hello.php:26
 msgid "We feel the room swayin"
-msgstr ""
+msgstr "Ons voel die kamer draai"
 
 #: hello.php:27
 msgid "While the band's playin"
@@ -53,40 +53,40 @@ msgstr "Terwyl die orkes speel"
 
 #: hello.php:28 hello.php:41
 msgid "One of your old favourite songs from way back when"
-msgstr ""
+msgstr "Een van jou ou gunsteling liedjies"
 
 #: hello.php:29
 msgid "So, take her wrap, fellas"
-msgstr ""
+msgstr "So, vat haar saam, vrinne"
 
 #: hello.php:30
 msgid "Find her an empty lap, fellas"
-msgstr ""
+msgstr "Kry vir haar 'n skoot, vrinne"
 
 #: hello.php:31 hello.php:46
 msgid "Dolly'll never go away again"
-msgstr "Dolly sal nooit weer weg gaan nie."
+msgstr "Grietjie gaan nie weg nie."
 
 #: hello.php:37
 msgid "You're still glowin', you're still crowin'"
-msgstr ""
+msgstr "Jy lyk gloeiend, jy lyk stralend"
 
 #: hello.php:39
 msgid "We feel the room swayin'"
-msgstr ""
+msgstr "Ons voel die kamer draai"
 
 #: hello.php:40
 msgid "While the band's playin'"
-msgstr ""
+msgstr "Terwyl die orkes speel"
 
 #: hello.php:42
 msgid "Golly, gee, fellas"
-msgstr ""
+msgstr "Goeie Grietjie, vrinne"
 
 #: hello.php:43
 msgid "Find her a vacant knee, fellas"
-msgstr ""
+msgstr "Kry vir haar 'n knie, vrinne"
 
 #: hello.php:44 hello.php:45
 msgid "Dolly'll never go away"
-msgstr "Dolly sal nooit weg gaan nie."
+msgstr "Grietjie gaan nie weg nie."
