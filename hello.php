@@ -13,6 +13,13 @@ Author URI: http://ma.tt/
 Text domain: hello-dolly-translate
 */
 
+add_action('after_setup_theme', 'hello_load_textdomain');
+
+function hello_load_textdomain() {
+	load_plugin_textdomain( 'hello-dolly-translate', false, dirname( plugin_basename(__FILE__) ) . '/languages/' );
+}
+
+
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
 	$lyrics = array(
