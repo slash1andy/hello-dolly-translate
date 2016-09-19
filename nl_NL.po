@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-19 11:22-0700\n"
+"PO-Revision-Date: 2016-09-19 11:34-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: hello.php\n"
+
+#: hello.php:19 hello.php:32
+msgid "Hello, Dolly"
+msgstr "Hallo, Grietje"
+
+#: hello.php:20 hello.php:33
+msgid "Well, hello, Dolly"
+msgstr "Wel, hallo, Grietje"
+
+#: hello.php:21 hello.php:34
+msgid "It's so nice to have you back where you belong"
+msgstr "Het is zo fijn om je terug te hebben waar je hoor"
+
+#: hello.php:22 hello.php:35
+msgid "You're lookin' swell, Dolly"
+msgstr "Je ziet er geweldig uit, Grietje"
+
+#: hello.php:23 hello.php:36
+msgid "I can tell, Dolly"
+msgstr "Ik kan het zien, Grietje"
+
+#: hello.php:24
+msgid "You're still glowin', you're still crowin"
+msgstr "Je straalt nog steeds, je jubelt nog steeds"
+
+#: hello.php:25 hello.php:38
+msgid "You're still goin' strong"
+msgstr "Je gaat nog steeds goed"
+
+#: hello.php:26
+msgid "We feel the room swayin"
+msgstr "We voelen de kamer bewegen"
+
+#: hello.php:27
+msgid "While the band's playin"
+msgstr "Terwijl de band speelt"
+
+#: hello.php:28 hello.php:41
+msgid "One of your old favourite songs from way back when"
+msgstr "Een van je oude, favoriete liedjes van toen"
+
+#: hello.php:29
+msgid "So, take her wrap, fellas"
+msgstr "Dus, neem haar sjaal, jongens"
+
+#: hello.php:30
+msgid "Find her an empty lap, fellas"
+msgstr "Vindt haar een lege schoot, jongens"
+
+#: hello.php:31 hello.php:46
+msgid "Dolly'll never go away again"
+msgstr "Grietje gaat nooit meer weg"
+
+#: hello.php:37
+msgid "You're still glowin', you're still crowin'"
+msgstr "Je straalt nog steeds, je jubelt nog steeds"
+
+#: hello.php:39
+msgid "We feel the room swayin'"
+msgstr "We voelen de kamer bewegen"
+
+#: hello.php:40
+msgid "While the band's playin'"
+msgstr "Terwijl de band speelt"
+
+#: hello.php:42
+msgid "Golly, gee, fellas"
+msgstr "Nou, tjonge, jongens"
+
+#: hello.php:43
+msgid "Find her a vacant knee, fellas"
+msgstr "Vindt haar een onbezette knie, jongens"
+
+#: hello.php:44 hello.php:45
+msgid "Dolly'll never go away"
+msgstr "Grietje gaat nooit meer weg"
