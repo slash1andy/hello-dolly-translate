@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-09-19 11:22-0700\n"
+"PO-Revision-Date: 2016-10-06 13:00+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: hello.php\n"
+
+#: hello.php:19 hello.php:32
+msgid "Hello, Dolly"
+msgstr "やあ、ドリー"
+
+#: hello.php:20 hello.php:33
+msgid "Well, hello, Dolly"
+msgstr "ああ、こんにちは、ドリー"
+
+#: hello.php:21 hello.php:34
+msgid "It's so nice to have you back where you belong"
+msgstr "君がここへ戻って来てくれてうれしいよ"
+
+#: hello.php:22 hello.php:35
+msgid "You're lookin' swell, Dolly"
+msgstr "素敵な格好をしているね、ドリー"
+
+#: hello.php:23 hello.php:36
+msgid "I can tell, Dolly"
+msgstr "言ってもいいかな"
+
+#: hello.php:24
+msgid "You're still glowin', you're still crowin"
+msgstr "君はとても輝いていて、そんなに有名になって"
+
+#: hello.php:25 hello.php:38
+msgid "You're still goin' strong"
+msgstr "こんなに大きくなった"
+
+#: hello.php:26
+msgid "We feel the room swayin"
+msgstr "まるで部屋が揺れているようだ"
+
+#: hello.php:27
+msgid "While the band's playin"
+msgstr "バンドの演奏に合わせて"
+
+#: hello.php:28 hello.php:41
+msgid "One of your old favourite songs from way back when"
+msgstr "これは君が昔とても好きだった曲だよ"
+
+#: hello.php:29
+msgid "So, take her wrap, fellas"
+msgstr "着ているコートを脱いで"
+
+#: hello.php:30
+msgid "Find her an empty lap, fellas"
+msgstr "さあ、空いてる席に座って"
+
+#: hello.php:31 hello.php:46
+msgid "Dolly'll never go away again"
+msgstr "ドリー、もう二度とどこにも行かないでね"
+
+#: hello.php:37
+msgid "You're still glowin', you're still crowin'"
+msgstr "君はとても輝いていて、そんなに有名になって"
+
+#: hello.php:39
+msgid "We feel the room swayin'"
+msgstr "まるで部屋が揺れているようだ"
+
+#: hello.php:40
+msgid "While the band's playin'"
+msgstr "バンドの演奏に合わせて"
+
+#: hello.php:42
+msgid "Golly, gee, fellas"
+msgstr "おやおや"
+
+#: hello.php:43
+msgid "Find her a vacant knee, fellas"
+msgstr "さあ、空いてる席に座って"
+
+#: hello.php:44 hello.php:45
+msgid "Dolly'll never go away"
+msgstr "ドリー、もうどこにも行かないで"
